@@ -1,2 +1,2 @@
 # Bellator
-Game with ancient greek theme.
+Game with an ancient greek theme.
